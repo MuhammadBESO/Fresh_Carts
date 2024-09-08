@@ -2,7 +2,7 @@
   "name": "freshcart",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://MuhammadBESO.github.io/",
+  "homepage": "https://MuhammadBESO.github.io/Fresh_Carts",
   "type": "module",
   "scripts": {
     "dev": "vite",
