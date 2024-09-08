@@ -36,7 +36,7 @@ import Updatepass from "./Components/UpdatePass/Updatepass";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "",
+      path: "/Fresh_Carts",
       element: <Layout />,
       children: [
         {
